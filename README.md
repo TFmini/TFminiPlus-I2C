@@ -1,7 +1,14 @@
 # TFmini-Plus-I2C
-本仓库存储了2个TFmini-I2C例程，其中包括：  
 
-1.TFmini_Plus I²C版在Arduino上的例程及参考方案  
-2.TFmini_Plus I²C在STM32上的例程及参考方案
 
-如有疑问请联系相关人员。
+
+
+
+
+This repository contains 2 TFminiPlus-I2C routines, including:
+
+1. Reference Scheme for TFminiPlus-I2C Used in Arduino
+
+2. Reference Scheme for  TFminiPlus-I2C Used in STM32
+
+If you have any questions, please contact the relevant personnel.
